@@ -17,7 +17,7 @@ Ce projet a pour but de découvrir la manière de piloter les broches d'entrée-
 
 Les manipulations proposées se trouvent [ici](Carrefour.pdf).
 
-Le code final du carrefour est également téléchargeable en extension .hex.
+Le code final du carrefour est également téléchargeable en extension .hex dans la liste de fichier en haut de page.
 
 Ce projet peut être prétexte à de la conception 3D pour la réalisation des feux et à la réalistion d'un environement pour intégrer les feux.
 
